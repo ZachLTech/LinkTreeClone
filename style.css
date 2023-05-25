@@ -97,10 +97,17 @@ body{
     .social__links ul li a span{
         line-height: 3rem;
     }
+    .gmail{
+        margin-left: 85%;
+    }
 }
+
 .logo{
     width: 3em;
     height: auto;
+}
+.gmail{
+    margin-left: 82.65%;
 }
 
 .share-button{
