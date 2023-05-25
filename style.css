@@ -100,6 +100,27 @@ body{
     .gmail{
         margin-left: 85%;
     }
+    .share-button{
+        zoom: 70%;
+        padding: 10px;
+        position: absolute;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        height: auto;
+        color: #777;
+        text-align: center;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 1.1;
+        letter-spacing: 2px;
+        text-transform: capitalize;
+        text-decoration: none;
+        white-space: nowrap;
+        border-radius: 50px;
+        border: 1px solid #ddd;
+        cursor: pointer;
+      }
 }
 
 .logo{
