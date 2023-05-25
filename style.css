@@ -151,6 +151,7 @@ body{
 
 
 .share-button{
+    background: transparent;
     padding: 10px;
     position: absolute;
     display: inline-flex;
@@ -167,6 +168,6 @@ body{
     text-decoration: none;
     white-space: nowrap;
     border-radius: 50px;
-    border: 1px solid #ddd;
+    border: 2px solid #777;
     cursor: pointer;
   }
