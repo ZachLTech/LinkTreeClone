@@ -121,6 +121,12 @@ body{
         border: 1px solid #ddd;
         cursor: pointer;
       }
+      .iconsmargin{
+        margin-left: 80%;
+    }
+    .iconsmargindiscord{
+        margin-left: 79%
+    }
 }
 
 .logo{
@@ -130,6 +136,13 @@ body{
 .gmail{
     margin-left: 82.65%;
 }
+.iconsmargin{
+    margin-left: 85%;
+}
+.iconsmargindiscord{
+    margin-left: 84%
+}
+
 
 .share-button{
     padding: 10px;
