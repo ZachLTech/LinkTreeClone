@@ -98,7 +98,10 @@ body{
         line-height: 3rem;
     }
 }
-
+.logo{
+    width: 3em;
+    height: auto;
+}
 
 .share-button{
     padding: 10px;
