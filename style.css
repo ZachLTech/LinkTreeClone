@@ -31,6 +31,9 @@ body{
     text-align: center;
     color: #fff;
 }
+
+
+
 .social__links ul li{
     width: 100%;
     margin: 1.2rem 0;
@@ -126,6 +129,9 @@ body{
     }
     .iconsmargindiscord{
         margin-left: 79%
+    }
+    #summary{
+        font-size: 1.5rem;
     }
 }
 
