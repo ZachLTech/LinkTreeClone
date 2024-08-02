@@ -6,6 +6,6 @@ services:
     ports:
       - "9791:80"
     volumes:
-      - ./site-volume:/usr/share/nginx/html
+      - ./public:/usr/share/nginx/html
     restart: unless-stopped
 
